@@ -1,0 +1,14 @@
+*{
+    background-color: #003D2B;
+}
+.page{
+    display: flex;
+    flex-direction: column;
+}
+.header{
+    margin-left: 990px;
+}
+.middle{
+    display: flex;
+    flex-direction: row;
+}
