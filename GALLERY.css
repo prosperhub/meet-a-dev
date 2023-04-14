@@ -1,0 +1,40 @@
+*{
+    background-color: #003D2B;
+   }
+   .page{
+       display: flex;
+       flex-direction: column;
+       align-content:right;
+   }
+   .header{
+      margin-left: 900px; */
+       
+   }.header a{
+       text-decoration: none;
+       color: greenyellow;
+       padding:10px;
+   }
+   .middle{
+       display: flex;
+       flex-direction: row;
+   }
+   .middle-left{
+    margin-left: 80px;   
+   }
+   .Hire {
+       display: flex;
+       background-color:  #330c0c;
+       width: 100px;
+       height: 50px;
+       border-radius: 20px;
+       padding-top: 15px;
+       padding-left: 20px;
+        margin: 10px;  */
+       margin: 100px 20px 0px 150px;
+        margin-left: 50px; */
+   };
+   .alb1.profile{
+    width: 30px;
+    margin: auto;
+
+   }

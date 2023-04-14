@@ -1,14 +1,54 @@
 *{
-    background-color: #003D2B;
+ background-color: #003D2B;
 }
 .page{
     display: flex;
     flex-direction: column;
+    align-content:right;
 }
 .header{
-    margin-left: 990px;
+   margin-left: 900px; */
+    
+}.header a{
+    text-decoration: none;
+    color: greenyellow;
+    padding:10px;
 }
 .middle{
     display: flex;
     flex-direction: row;
+}
+.middle-left{
+ margin-left: 80px;   
+}
+.Hire {
+    display: flex;
+    background-color:  #330c0c;
+    width: 100px;
+    height: 50px;
+    border-radius: 20px;
+    padding-top: 15px;
+    padding-left: 20px;
+     margin: 10px;  */
+    margin: 100px 20px 0px 150px;
+     margin-left: 50px; */
+}
+.line {
+    margin-top: 0%;
+}
+.skills {
+color: #fc0303;
+}
+
+.profile {
+    background-image: linear-gradient(to bottom, rgba(255,255,255,0.3) , black);
+    rotate: 0deg;
+    width: 300px;
+    border-radius: 25px;
+} 
+.photos{
+ margin-left: 500px;S
+ margin-right: 10px;
+ width: 15px; 
+ height: 20px;
 }
